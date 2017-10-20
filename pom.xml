@@ -38,9 +38,9 @@
     </description>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/contrib/extensions/cache/container-test</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/contrib/extensions/cache/container-test</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/contrib/extensions/cache/container-test</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-commons-cache-container-test.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-commons-cache-container-test.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-commons-cache-container-test.git</url>
     </scm>
     
 
